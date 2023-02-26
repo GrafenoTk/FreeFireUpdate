@@ -1,0 +1,15 @@
+            (SENSI BAIXA FAZ A MIRA TREMER MENOS!)
+
+SENSI 1      (EU USO)        SENSI 5             SENSI 9
+800X600                      800X600             800X600
+RANGE:934291658.000000       RANGE:0.95000       RANGE:94291658.000000
+GERAL:0                      GERAL:9             GERAL:0
+RED DOT:0                    RED DOT:3           RED DOT:0
+DPI DO MOUSE:800             DPI DO MOUSE:800    DPI DO MOUSE:800
+
+SENSI 2                      SENSI 6             SENSI 10 
+800X600                      800X600             800X600
+RANGE:0.930000               RANGE:0.99000       RANGE:934291658.000000
+GERAL:15                     GERAL:0             GERAL:0          
+RED DOT:0                    RED DOT:0           RED DOT:0
+DPI DO MOUSE:800             DPI DO MOUSE:800    DPI DO MOUSE:800
